@@ -1,6 +1,8 @@
 [ASP.NET Core Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/)
 
 ## What's new in ASP.NET Core
+- [What's new in ASP.NET Core 10.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-10.0)
+- [What's new in ASP.NET Core 9.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-9.0)
 - [What's new in ASP.NET Core 8.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-8.0)
 - [What's new in ASP.NET Core 7.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-7.0)
 - [What's new in ASP.NET Core 6.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-6.0)
