@@ -1,4 +1,7 @@
 ## What's new in C#
+- [What's new in C# 14](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14)
+- [What's new in C# 13](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13)
+- [What's new in C# 12](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12)
 - [What's new in C# 11](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11)
 - [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
 - [What's new in C# 9.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
