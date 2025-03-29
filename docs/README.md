@@ -32,6 +32,7 @@
 - [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott - YouTube](https://www.youtube.com/watch?v=bw7ljmvbrr0)
 - [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman - YouTube](https://www.youtube.com/watch?v=18w4QOWGJso)
 - [Deep .NET - Ahead of Time Compilation (Native AOT) with Eric Erhardt - YouTube](https://www.youtube.com/watch?v=N-MrQeZ1enY)
+- [Deep .NET - Using AI Python Libraries in .NET Apps with CSnakes - YouTube](https://www.youtube.com/watch?v=DqoxHNH9Iwo)
 
 ## What's new in the .NET Framework
 | Version  | Support Policy | Support Ended Date |
